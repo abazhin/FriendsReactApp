@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "View friends app",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server",
+    "build": "react-scripts build"
   },
   "author": "Alex Bazhin",
   "license": "ISC",
